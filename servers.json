@@ -651,15 +651,15 @@
   },
   {
     "Name": "ICMarketsSC-Demo03",
-    "Host": "52.59.155.191",
+    "Host": "51.254.68.2",
     "DnsResolvedHost": null,
     "Port": 443,
     "Type": 0,
     "Broker": "IC Markets",
     "Region": "Unknown",
-    "LastUpdated": "2025-12-30T20:56:06.8716675Z",
+    "LastUpdated": "2025-12-30T20:56:08.7157105Z",
     "ReportedBy": "plruUh8f/mZ8ZOTQ",
-    "VerifiedCount": 3,
+    "VerifiedCount": 4,
     "SuccessRate": 100
   },
   {
