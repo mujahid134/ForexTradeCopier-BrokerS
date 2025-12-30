@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "ICMarketsSC-Demo03",
+    "host": "52.59.155.191",
+    "port": 443,
+    "type": 0,
+    "broker": "IC Markets",
+    "region": "Unknown",
+    "lastUpdated": "2025-12-30T13:17:13.1600186Z",
+    "reportedBy": "plruUh8f/mZ8ZOTQ",
+    "verifiedCount": 1,
+    "successRate": 100
+  }
+]
