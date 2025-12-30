@@ -2,6 +2,7 @@
   {
     "name": "",
     "host": "",
+    "dnsResolvedHost": null,
     "port": 0,
     "type": 0,
     "broker": "",
@@ -14,6 +15,7 @@
   {
     "name": "",
     "host": "",
+    "dnsResolvedHost": null,
     "port": 0,
     "type": 0,
     "broker": "",
@@ -26,6 +28,7 @@
   {
     "name": "",
     "host": "",
+    "dnsResolvedHost": null,
     "port": 0,
     "type": 0,
     "broker": "",
@@ -38,6 +41,20 @@
   {
     "name": "",
     "host": "",
+    "dnsResolvedHost": null,
+    "port": 0,
+    "type": 0,
+    "broker": "",
+    "region": "",
+    "lastUpdated": "0001-01-01T00:00:00",
+    "reportedBy": "",
+    "verifiedCount": 0,
+    "successRate": 100
+  },
+  {
+    "name": "",
+    "host": "",
+    "dnsResolvedHost": null,
     "port": 0,
     "type": 0,
     "broker": "",
@@ -50,11 +67,12 @@
   {
     "name": "ICMarketsSC-Demo03",
     "host": "52.59.155.191",
+    "dnsResolvedHost": null,
     "port": 443,
     "type": 0,
     "broker": "IC Markets",
     "region": "Unknown",
-    "lastUpdated": "2025-12-30T19:40:32.9516908Z",
+    "lastUpdated": "2025-12-30T20:12:29.9125563Z",
     "reportedBy": "plruUh8f/mZ8ZOTQ",
     "verifiedCount": 1,
     "successRate": 100
