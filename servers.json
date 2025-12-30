@@ -713,5 +713,18 @@
     "ReportedBy": "plruUh8f/mZ8ZOTQ",
     "VerifiedCount": 1,
     "SuccessRate": 100
+  },
+  {
+    "Name": "ICMarketsSC-Live26",
+    "Host": "192.229.22.188",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "IC Markets",
+    "Region": "US",
+    "LastUpdated": "2025-12-30T20:48:57.2220453Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
   }
 ]
