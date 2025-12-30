@@ -624,6 +624,19 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FBS-Demo",
+    "Host": "206.189.112.79",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "FBS",
+    "Region": "Unknown",
+    "LastUpdated": "2025-12-30T20:56:12.8633495Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "ICMarketsSC-Demo01",
     "Host": "51.254.68.0",
     "DnsResolvedHost": null,
