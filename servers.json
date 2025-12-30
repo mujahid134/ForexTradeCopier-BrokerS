@@ -169,14 +169,27 @@
     "successRate": 100
   },
   {
-    "name": "ICMarketsSC-Demo02",
-    "host": "51.254.68.1",
+    "name": "",
+    "host": "",
+    "dnsResolvedHost": null,
+    "port": 0,
+    "type": 0,
+    "broker": "",
+    "region": "",
+    "lastUpdated": "0001-01-01T00:00:00",
+    "reportedBy": "",
+    "verifiedCount": 0,
+    "successRate": 100
+  },
+  {
+    "name": "ICMarketsSC-Live16",
+    "host": "192.229.23.111",
     "dnsResolvedHost": null,
     "port": 443,
     "type": 0,
     "broker": "IC Markets",
-    "region": "EU",
-    "lastUpdated": "2025-12-30T20:12:29.961903Z",
+    "region": "US",
+    "lastUpdated": "2025-12-30T20:12:30.2752874Z",
     "reportedBy": "plruUh8f/mZ8ZOTQ",
     "verifiedCount": 1,
     "successRate": 100
