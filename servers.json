@@ -637,6 +637,19 @@
     "SuccessRate": 100
   },
   {
+    "Name": "ICMarketsSC-Live05",
+    "Host": "170.75.200.14",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "IC Markets",
+    "Region": "Unknown",
+    "LastUpdated": "2025-12-30T20:48:56.7311272Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "ICMarketsSC-Live14",
     "Host": "192.229.23.114",
     "DnsResolvedHost": null,
