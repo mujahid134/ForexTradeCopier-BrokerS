@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Axi-US03-Live",
+    "Host": "us03-live.mt4tradeserver.com",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "Axi",
+    "Region": "Unknown",
+    "LastUpdated": "2026-01-02T15:31:42.8925865Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "ReportedByHwid": "774c93798b85f457",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "FBS-Demo",
     "Host": "192.248.159.128",
     "DnsResolvedHost": null,
