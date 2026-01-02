@@ -56,6 +56,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "Axi-US16-Live",
+    "Host": "4tradeserver.com",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "Axi",
+    "Region": "Unknown",
+    "LastUpdated": "2026-01-02T15:31:43.0508181Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "ReportedByHwid": "774c93798b85f457",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "Axi-US17-Live",
     "Host": "ivea.mt4tradeserver.com",
     "DnsResolvedHost": null,
