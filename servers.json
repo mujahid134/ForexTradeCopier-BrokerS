@@ -224,6 +224,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "ICMarketsSC-Demo04",
+    "Host": "18.205.225.148",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "IC Markets",
+    "Region": "Unknown",
+    "LastUpdated": "2026-02-23T15:46:31.1279846Z",
+    "ReportedBy": "1girlZVsAEezfA/X",
+    "ReportedByHwid": "6187b43058844a41",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "ICMarketsSC-Demo06",
     "Host": "3.141.174.142",
     "DnsResolvedHost": null,
