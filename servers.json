@@ -502,5 +502,19 @@
     "ReportedByHwid": null,
     "VerifiedCount": 31,
     "SuccessRate": 100
+  },
+  {
+    "Name": "RoboForex-ProCent-6",
+    "Host": "176.74.217.153",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "RoboForex",
+    "Region": "Unknown",
+    "LastUpdated": "2026-02-23T15:46:31.3791082Z",
+    "ReportedBy": "1girlZVsAEezfA/X",
+    "ReportedByHwid": "6187b43058844a41",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
   }
 ]
