@@ -211,16 +211,16 @@
   },
   {
     "Name": "ICMarketsSC-Demo03",
-    "Host": "198.50.218.194",
+    "Host": "51.254.68.2",
     "DnsResolvedHost": null,
     "Port": 443,
     "Type": 0,
     "Broker": "IC Markets",
     "Region": "Unknown",
-    "LastUpdated": "2026-02-23T14:36:32.2890961Z",
+    "LastUpdated": "2026-03-10T23:29:46.0630811Z",
     "ReportedBy": "plruUh8f/mZ8ZOTQ",
     "ReportedByHwid": null,
-    "VerifiedCount": 29,
+    "VerifiedCount": 30,
     "SuccessRate": 100
   },
   {
