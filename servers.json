@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Antoon3",
+    "Host": "34.117.68.229",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "Antoon3",
+    "Region": "Unknown",
+    "LastUpdated": "2026-03-11T01:26:30.7306541Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "ReportedByHwid": "774c93798b85f457",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "Axi-US02-Live",
     "Host": "us02-live.mt4tradeserver.com",
     "DnsResolvedHost": null,
