@@ -518,6 +518,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "Rithmic Paper Trading",
+    "Host": "3.137.28.231",
+    "DnsResolvedHost": null,
+    "Port": 31655,
+    "Type": 1,
+    "Broker": "Rithmic Paper Trading",
+    "Region": "Unknown",
+    "LastUpdated": "2026-03-11T01:51:22.372791Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "ReportedByHwid": "774c93798b85f457",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "RoboForex-ProCent-6",
     "Host": "176.74.217.153",
     "DnsResolvedHost": null,
