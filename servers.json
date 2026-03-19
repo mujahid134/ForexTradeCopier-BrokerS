@@ -168,6 +168,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FPMarkets-Live5",
+    "Host": "192.109.23.158",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "FPMarkets",
+    "Region": "US",
+    "LastUpdated": "2026-03-19T18:22:53.1977509Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "ReportedByHwid": "774c93798b85f457",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "ICMarketsSC-Demo",
     "Host": "13.135.134.23",
     "DnsResolvedHost": null,
