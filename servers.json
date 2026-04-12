@@ -546,6 +546,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "MetaQuotes-Demo",
+    "Host": "45.94.184.80",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "MetaQuotes",
+    "Region": "Unknown",
+    "LastUpdated": "2026-04-12T17:15:22.7181413Z",
+    "ReportedBy": "voXk9nOu0qMdKwrb",
+    "ReportedByHwid": "629c2c2d3ce89367",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "Rithmic Paper Trading",
     "Host": "3.137.28.231",
     "DnsResolvedHost": null,
