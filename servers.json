@@ -140,6 +140,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "Exness-MT5Trial9",
+    "Host": "3.9.53.138",
+    "DnsResolvedHost": null,
+    "Port": 1951,
+    "Type": 1,
+    "Broker": "Exness",
+    "Region": "Unknown",
+    "LastUpdated": "2026-04-30T20:28:36.683446Z",
+    "ReportedBy": "GaMT3ftqnfAvORcL",
+    "ReportedByHwid": "ee741420df0edc3c",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "FBS-Demo",
     "Host": "192.248.159.128",
     "DnsResolvedHost": null,
