@@ -210,6 +210,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "HFMarketsGlobal-Live11",
+    "Host": "3.9.53.138",
+    "DnsResolvedHost": null,
+    "Port": 1951,
+    "Type": 1,
+    "Broker": "HFMarketsGlobal",
+    "Region": "Unknown",
+    "LastUpdated": "2026-04-30T20:22:45.9938589Z",
+    "ReportedBy": "GaMT3ftqnfAvORcL",
+    "ReportedByHwid": "ee741420df0edc3c",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "ICMarketsSC-Demo",
     "Host": "13.135.134.23",
     "DnsResolvedHost": null,
