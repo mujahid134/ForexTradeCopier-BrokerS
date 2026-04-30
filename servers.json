@@ -141,16 +141,16 @@
   },
   {
     "Name": "Exness-MT5Trial9",
-    "Host": "3.9.53.138",
+    "Host": "36.255.76.152",
     "DnsResolvedHost": null,
-    "Port": 1951,
+    "Port": 443,
     "Type": 1,
     "Broker": "Exness",
     "Region": "Unknown",
-    "LastUpdated": "2026-04-30T20:28:36.683446Z",
+    "LastUpdated": "2026-04-30T20:28:36.7642149Z",
     "ReportedBy": "GaMT3ftqnfAvORcL",
     "ReportedByHwid": "ee741420df0edc3c",
-    "VerifiedCount": 1,
+    "VerifiedCount": 2,
     "SuccessRate": 100
   },
   {
