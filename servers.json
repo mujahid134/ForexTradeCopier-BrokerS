@@ -616,6 +616,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "ICMarketsSC-MT5-4",
+    "Host": "194.164.176.150",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "IC Markets",
+    "Region": "Unknown",
+    "LastUpdated": "2026-05-14T07:18:21.6049924Z",
+    "ReportedBy": "Dnj02wIXjfFr7X8Y",
+    "ReportedByHwid": "1cc03b7f4482ce2b",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "MetaQuotes-Demo",
     "Host": "45.94.184.80",
     "DnsResolvedHost": null,
