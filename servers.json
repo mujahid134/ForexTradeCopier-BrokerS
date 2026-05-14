@@ -238,6 +238,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FTMO-Server",
+    "Host": "185.96.244.119",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "FTMO",
+    "Region": "EU",
+    "LastUpdated": "2026-05-14T07:18:21.5390001Z",
+    "ReportedBy": "Dnj02wIXjfFr7X8Y",
+    "ReportedByHwid": "1cc03b7f4482ce2b",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "FTMO-Server2",
     "Host": "45.94.185.81",
     "DnsResolvedHost": null,
