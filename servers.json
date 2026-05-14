@@ -294,6 +294,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FTMO-Server4",
+    "Host": "185.212.82.185",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "FTMO",
+    "Region": "EU",
+    "LastUpdated": "2026-05-14T07:18:21.5401788Z",
+    "ReportedBy": "Dnj02wIXjfFr7X8Y",
+    "ReportedByHwid": "1cc03b7f4482ce2b",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "HFMarketsGlobal-Demo",
     "Host": "13.43.174.164",
     "DnsResolvedHost": null,
