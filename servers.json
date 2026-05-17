@@ -773,14 +773,14 @@
     "Name": "VTMarkets-Live 6",
     "Host": "166.117.167.211",
     "DnsResolvedHost": null,
-    "Port": 704,
+    "Port": 705,
     "Type": 1,
     "Broker": "VTMarkets",
     "Region": "Unknown",
-    "LastUpdated": "2026-05-17T10:37:04.4798036Z",
+    "LastUpdated": "2026-05-17T10:37:04.5507785Z",
     "ReportedBy": "gGcpZG\u002BIVPzsLRwM",
     "ReportedByHwid": "85c2852e3aa96076",
-    "VerifiedCount": 1,
+    "VerifiedCount": 2,
     "SuccessRate": 100
   }
 ]
