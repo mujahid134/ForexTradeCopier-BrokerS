@@ -768,5 +768,19 @@
     "ReportedByHwid": "6187b43058844a41",
     "VerifiedCount": 1,
     "SuccessRate": 100
+  },
+  {
+    "Name": "VTMarkets-Live 6",
+    "Host": "166.117.167.211",
+    "DnsResolvedHost": null,
+    "Port": 704,
+    "Type": 1,
+    "Broker": "VTMarkets",
+    "Region": "Unknown",
+    "LastUpdated": "2026-05-17T10:37:04.4798036Z",
+    "ReportedBy": "gGcpZG\u002BIVPzsLRwM",
+    "ReportedByHwid": "85c2852e3aa96076",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
   }
 ]
