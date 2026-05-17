@@ -770,6 +770,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "VTMarkets-Demo",
+    "Host": "18.175.1.177",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "VTMarkets",
+    "Region": "Unknown",
+    "LastUpdated": "2026-05-17T10:37:53.238472Z",
+    "ReportedBy": "gGcpZG\u002BIVPzsLRwM",
+    "ReportedByHwid": "85c2852e3aa96076",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "VTMarkets-Live 6",
     "Host": "166.117.167.211",
     "DnsResolvedHost": null,
