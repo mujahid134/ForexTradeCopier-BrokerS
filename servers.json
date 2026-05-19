@@ -714,6 +714,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "JTMarkets-Trade",
+    "Host": "185.63.220.224",
+    "DnsResolvedHost": null,
+    "Port": 4443,
+    "Type": 1,
+    "Broker": "JTMarkets",
+    "Region": "EU",
+    "LastUpdated": "2026-05-19T12:38:49.7273878Z",
+    "ReportedBy": "1girlZVsAEezfA/X",
+    "ReportedByHwid": "1fbb68f9df8f68fd",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "MetaQuotes-Demo",
     "Host": "45.94.184.80",
     "DnsResolvedHost": null,
