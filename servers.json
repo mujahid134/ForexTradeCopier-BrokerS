@@ -770,6 +770,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "RoboForex-Pro-5",
+    "Host": "83.149.97.34",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "RoboForex",
+    "Region": "Unknown",
+    "LastUpdated": "2026-06-08T15:53:14.8697772Z",
+    "ReportedBy": "R/HWNEpeBC5lWi02",
+    "ReportedByHwid": "8a054a10e208665a",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "RoboForex-ProCent-6",
     "Host": "176.74.217.153",
     "DnsResolvedHost": null,
