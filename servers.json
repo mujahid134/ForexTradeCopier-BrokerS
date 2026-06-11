@@ -826,6 +826,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "RoboForex-ECN-3",
+    "Host": "162.55.122.177",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "RoboForex",
+    "Region": "Unknown",
+    "LastUpdated": "2026-06-11T06:25:54.4014089Z",
+    "ReportedBy": "Zb8V\u002BumYo8Xnm\u002BJZ",
+    "ReportedByHwid": "8a054a10e208665a",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "RoboForex-Pro",
     "Host": "194.164.177.175",
     "DnsResolvedHost": null,
