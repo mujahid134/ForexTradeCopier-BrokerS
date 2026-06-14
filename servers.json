@@ -813,16 +813,16 @@
   },
   {
     "Name": "RoboForex-Demo",
-    "Host": "178.162.142.193",
+    "Host": "162.55.122.161",
     "DnsResolvedHost": null,
     "Port": 443,
     "Type": 0,
     "Broker": "RoboForex",
     "Region": "Unknown",
-    "LastUpdated": "2026-06-08T16:06:34.1618449Z",
+    "LastUpdated": "2026-06-14T21:56:11.3294549Z",
     "ReportedBy": "qviCm1QTtbWYTLvm",
     "ReportedByHwid": "400b58e1f5a01789",
-    "VerifiedCount": 7,
+    "VerifiedCount": 8,
     "SuccessRate": 100
   },
   {
