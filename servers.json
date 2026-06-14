@@ -409,14 +409,14 @@
     "Name": "ICMarketsSC-Demo",
     "Host": "207.246.127.101",
     "DnsResolvedHost": null,
-    "Port": 443,
+    "Port": 1950,
     "Type": 1,
     "Broker": "IC Markets",
     "Region": "Unknown",
-    "LastUpdated": "2026-06-14T21:56:11.3726276Z",
+    "LastUpdated": "2026-06-14T21:56:11.4171536Z",
     "ReportedBy": "plruUh8f/mZ8ZOTQ",
     "ReportedByHwid": null,
-    "VerifiedCount": 25,
+    "VerifiedCount": 26,
     "SuccessRate": 100
   },
   {
