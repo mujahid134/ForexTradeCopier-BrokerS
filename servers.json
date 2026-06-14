@@ -238,6 +238,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FPMarketsLtd-Demo2",
+    "Host": "172.241.16.7",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "FPMarketsLtd",
+    "Region": "Unknown",
+    "LastUpdated": "2026-06-14T22:06:17.7312517Z",
+    "ReportedBy": "1girlZVsAEezfA/X",
+    "ReportedByHwid": "1fbb68f9df8f68fd",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "FTMO-Demo",
     "Host": "46.235.34.188",
     "DnsResolvedHost": null,
