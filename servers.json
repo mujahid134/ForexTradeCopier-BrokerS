@@ -350,6 +350,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FusionMarkets-Demo",
+    "Host": "192.149.48.126",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "FusionMarkets",
+    "Region": "US",
+    "LastUpdated": "2026-06-14T21:56:11.4593743Z",
+    "ReportedBy": "1girlZVsAEezfA/X",
+    "ReportedByHwid": "1fbb68f9df8f68fd",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "FusionMarkets-Live",
     "Host": "192.229.22.253",
     "DnsResolvedHost": null,
