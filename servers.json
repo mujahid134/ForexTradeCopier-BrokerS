@@ -126,6 +126,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "CapitalNineGlobal-Server",
+    "Host": "36.255.76.152",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "CapitalNineGlobal",
+    "Region": "Unknown",
+    "LastUpdated": "2026-06-19T08:47:33.8130605Z",
+    "ReportedBy": "yGXHbvZ7ACkZ6Elp",
+    "ReportedByHwid": "d79e8959d8d8f9ce",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "Exness-MT5Real21",
     "Host": "3.9.53.138",
     "DnsResolvedHost": null,
