@@ -953,16 +953,16 @@
   },
   {
     "Name": "VantageMarkets-Demo",
-    "Host": "36.255.76.152",
+    "Host": "76.223.49.214",
     "DnsResolvedHost": null,
-    "Port": 443,
+    "Port": 702,
     "Type": 1,
     "Broker": "VantageMarkets",
     "Region": "Unknown",
-    "LastUpdated": "2026-06-19T10:34:30.457668Z",
+    "LastUpdated": "2026-06-19T10:52:58.9875957Z",
     "ReportedBy": "1girlZVsAEezfA/X",
     "ReportedByHwid": "1fbb68f9df8f68fd",
-    "VerifiedCount": 1,
+    "VerifiedCount": 2,
     "SuccessRate": 100
   },
   {
