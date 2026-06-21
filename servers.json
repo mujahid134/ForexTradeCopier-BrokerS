@@ -955,14 +955,14 @@
     "Name": "VantageMarkets-Demo",
     "Host": "166.117.247.145",
     "DnsResolvedHost": null,
-    "Port": 701,
+    "Port": 703,
     "Type": 1,
     "Broker": "VantageMarkets",
     "Region": "Unknown",
-    "LastUpdated": "2026-06-19T10:52:59.6989866Z",
+    "LastUpdated": "2026-06-21T02:30:27.0131062Z",
     "ReportedBy": "1girlZVsAEezfA/X",
     "ReportedByHwid": "1fbb68f9df8f68fd",
-    "VerifiedCount": 4,
+    "VerifiedCount": 5,
     "SuccessRate": 100
   },
   {
