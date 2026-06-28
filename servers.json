@@ -252,6 +252,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FinaltoEU-Demo",
+    "Host": "20.248.114.89",
+    "DnsResolvedHost": null,
+    "Port": 220,
+    "Type": 0,
+    "Broker": "FinaltoEU",
+    "Region": "Unknown",
+    "LastUpdated": "2026-06-28T18:28:26.9558213Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "ReportedByHwid": "774c93798b85f457",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "FPMarkets-Demo2",
     "Host": "52.56.48.115",
     "DnsResolvedHost": null,
