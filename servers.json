@@ -238,6 +238,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FinaltoAustralia-Live2",
+    "Host": "20.248.114.89",
+    "DnsResolvedHost": null,
+    "Port": 587,
+    "Type": 0,
+    "Broker": "FinaltoAustralia",
+    "Region": "Unknown",
+    "LastUpdated": "2026-06-28T18:27:00.6783495Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "ReportedByHwid": "774c93798b85f457",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "FPMarkets-Demo2",
     "Host": "52.56.48.115",
     "DnsResolvedHost": null,
