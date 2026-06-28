@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Alpari-MT5-Demo",
+    "Host": "23.111.102.26",
+    "DnsResolvedHost": null,
+    "Port": 1119,
+    "Type": 1,
+    "Broker": "Alpari",
+    "Region": "Unknown",
+    "LastUpdated": "2026-06-28T18:21:06.5228158Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "ReportedByHwid": "774c93798b85f457",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "Antoon3",
     "Host": "34.117.68.229",
     "DnsResolvedHost": null,
