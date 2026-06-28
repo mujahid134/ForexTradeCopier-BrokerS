@@ -868,6 +868,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "LMAX-LIVE",
+    "Host": "35.177.246.81",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "LMAX",
+    "Region": "Unknown",
+    "LastUpdated": "2026-06-28T18:54:38.9858657Z",
+    "ReportedBy": "plruUh8f/mZ8ZOTQ",
+    "ReportedByHwid": "774c93798b85f457",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "MetaQuotes-Demo",
     "Host": "45.94.184.80",
     "DnsResolvedHost": null,
