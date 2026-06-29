@@ -1050,6 +1050,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "VantageMarkets-Live 21",
+    "Host": "a96810e367f55aeb1.awsglobalaccelerator.com",
+    "DnsResolvedHost": null,
+    "Port": 700,
+    "Type": 1,
+    "Broker": "VantageMarkets",
+    "Region": "Unknown",
+    "LastUpdated": "2026-06-29T10:45:57.4774021Z",
+    "ReportedBy": "1girlZVsAEezfA/X",
+    "ReportedByHwid": "4dcf7947d3d667eb",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "VTMarkets-Demo",
     "Host": "18.175.1.177",
     "DnsResolvedHost": null,
