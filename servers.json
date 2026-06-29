@@ -141,16 +141,16 @@
   },
   {
     "Name": "CapitalNineGlobal-Server",
-    "Host": "88.212.232.156",
+    "Host": "81.92.218.138",
     "DnsResolvedHost": null,
     "Port": 443,
     "Type": 1,
     "Broker": "CapitalNineGlobal",
     "Region": "Unknown",
-    "LastUpdated": "2026-06-22T15:32:22.1279557Z",
+    "LastUpdated": "2026-06-29T05:25:34.893268Z",
     "ReportedBy": "yGXHbvZ7ACkZ6Elp",
     "ReportedByHwid": "d79e8959d8d8f9ce",
-    "VerifiedCount": 12,
+    "VerifiedCount": 13,
     "SuccessRate": 100
   },
   {
