@@ -210,6 +210,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FBS-Demo",
+    "Host": "192.248.159.128",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "FBS",
+    "Region": "US",
+    "LastUpdated": "2026-06-29T15:32:59.4467549Z",
+    "ReportedBy": "aqS6ukpOGmB8AkSf",
+    "ReportedByHwid": "889eed86774d56ff",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "FBS-Real-2",
     "Host": "45.76.149.199",
     "DnsResolvedHost": null,
