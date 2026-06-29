@@ -896,6 +896,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "MasadaInvestments-Live",
+    "Host": "13.40.20.26",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "MasadaInvestments",
+    "Region": "Unknown",
+    "LastUpdated": "2026-06-29T06:10:29.8586535Z",
+    "ReportedBy": "nVMVC\u002B/Y9ymSG9pa",
+    "ReportedByHwid": "ff054664bb13bc20",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "MetaQuotes-Demo",
     "Host": "45.94.184.80",
     "DnsResolvedHost": null,
