@@ -435,16 +435,16 @@
   },
   {
     "Name": "FusionMarkets-Demo",
-    "Host": "192.149.50.164",
+    "Host": "192.149.48.126",
     "DnsResolvedHost": null,
     "Port": 443,
     "Type": 1,
     "Broker": "FusionMarkets",
     "Region": "US",
-    "LastUpdated": "2026-07-01T20:44:10.8090131Z",
+    "LastUpdated": "2026-07-09T01:45:05.0971518Z",
     "ReportedBy": "1girlZVsAEezfA/X",
     "ReportedByHwid": "1fbb68f9df8f68fd",
-    "VerifiedCount": 5,
+    "VerifiedCount": 6,
     "SuccessRate": 100
   },
   {
