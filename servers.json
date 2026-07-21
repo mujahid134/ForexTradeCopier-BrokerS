@@ -294,6 +294,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FinaltoUK-Live7",
+    "Host": "20.248.114.89",
+    "DnsResolvedHost": null,
+    "Port": 280,
+    "Type": 1,
+    "Broker": "FinaltoUK",
+    "Region": "Unknown",
+    "LastUpdated": "2026-07-21T16:15:25.6851895Z",
+    "ReportedBy": "ICwbDgbg/eRrNrvA",
+    "ReportedByHwid": "4f08c7d92e076d22",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "FPMarkets-Demo2",
     "Host": "52.56.48.115",
     "DnsResolvedHost": null,
