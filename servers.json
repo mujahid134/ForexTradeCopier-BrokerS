@@ -140,6 +140,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "BroctagonPrimeMarkets-Live",
+    "Host": "35.177.67.19",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "BroctagonPrimeMarkets",
+    "Region": "Unknown",
+    "LastUpdated": "2026-07-21T16:14:47.5265237Z",
+    "ReportedBy": "ICwbDgbg/eRrNrvA",
+    "ReportedByHwid": "4f08c7d92e076d22",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "CapitalNineGlobal-Server",
     "Host": "81.92.218.138",
     "DnsResolvedHost": null,
