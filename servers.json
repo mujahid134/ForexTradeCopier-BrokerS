@@ -896,6 +896,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "KnightMarkets-Server",
+    "Host": "142.91.127.93",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "KnightMarkets",
+    "Region": "Unknown",
+    "LastUpdated": "2026-07-21T15:58:47.9075729Z",
+    "ReportedBy": "ICwbDgbg/eRrNrvA",
+    "ReportedByHwid": "4f08c7d92e076d22",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "LMAX-LIVE",
     "Host": "35.177.246.81",
     "DnsResolvedHost": null,
