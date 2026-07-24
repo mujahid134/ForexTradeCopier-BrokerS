@@ -1092,6 +1092,20 @@
     "SuccessRate": 100
   },
   {
+    "Name": "UltimaMarkets-Live 1",
+    "Host": "a3a46e50193122d79.awsglobalaccelerator.com",
+    "DnsResolvedHost": null,
+    "Port": 700,
+    "Type": 1,
+    "Broker": "UltimaMarkets",
+    "Region": "Unknown",
+    "LastUpdated": "2026-07-24T06:03:33.7669395Z",
+    "ReportedBy": "1girlZVsAEezfA/X",
+    "ReportedByHwid": "4dcf7947d3d667eb",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "VantageMarkets-Demo",
     "Host": "36.255.76.152",
     "DnsResolvedHost": null,
