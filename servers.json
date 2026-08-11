@@ -992,6 +992,18 @@
     "SuccessRate": 100
   },
   {
+    "Name": "OneRoyal-Real-01",
+    "Host": "18.163.141.211",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 0,
+    "Broker": "OneRoyal",
+    "Region": "Unknown",
+    "LastUpdated": "2026-08-11T17:44:27.121Z",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "OneRoyal-Server",
     "Host": "185.97.160.157",
     "DnsResolvedHost": null,
