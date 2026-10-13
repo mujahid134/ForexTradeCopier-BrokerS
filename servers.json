@@ -518,6 +518,18 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FxPro.Global-MT5 Live02",
+    "Host": "149.5.86.205",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "FxPro",
+    "Region": "Unknown",
+    "LastUpdated": "2026-10-13T09:39:21.833Z",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "HFMarketsGlobal-Demo",
     "Host": "13.43.174.164",
     "DnsResolvedHost": null,
