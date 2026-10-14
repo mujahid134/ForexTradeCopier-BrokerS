@@ -1142,6 +1142,18 @@
     "SuccessRate": 100
   },
   {
+    "Name": "UltimaMarkets-Demo",
+    "Host": "35.177.163.162",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "UltimaMarkets",
+    "Region": "Unknown",
+    "LastUpdated": "2026-10-14T18:43:35.268Z",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "UltimaMarkets-Live 1",
     "Host": "a3a46e50193122d79.awsglobalaccelerator.com",
     "DnsResolvedHost": null,
