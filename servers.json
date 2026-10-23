@@ -364,6 +364,18 @@
     "SuccessRate": 100
   },
   {
+    "Name": "FTMO-Demo",
+    "Host": "193.30.23.133",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "FTMO",
+    "Region": "Unknown",
+    "LastUpdated": "2026-10-23T09:45:31.543Z",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "FTMO-Demo2",
     "Host": "149.5.84.58",
     "DnsResolvedHost": null,
