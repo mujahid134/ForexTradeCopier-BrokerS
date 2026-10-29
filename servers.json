@@ -1016,6 +1016,18 @@
     "SuccessRate": 100
   },
   {
+    "Name": "NeotechFinancialServices-Live",
+    "Host": "34.105.192.20",
+    "DnsResolvedHost": null,
+    "Port": 443,
+    "Type": 1,
+    "Broker": "NeotechFinancialServices",
+    "Region": "Unknown",
+    "LastUpdated": "2026-10-29T15:54:27.314Z",
+    "VerifiedCount": 1,
+    "SuccessRate": 100
+  },
+  {
     "Name": "OneRoyal-Real",
     "Host": "185.97.161.73",
     "DnsResolvedHost": null,
